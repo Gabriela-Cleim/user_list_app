@@ -1,6 +1,6 @@
 # User List App
 
-Um aplicativo simples para listar usuários usando Retrofit e RecyclerView no Android. O projeto consome uma API pública e exibe uma lista de usuários em uma interface de usuário.
+Um aplicativo simples para listar usuários usando Retrofit e RecyclerView no Android. O projeto consome a API pública JSONPlaceholder e exibe uma lista de usuários em uma interface de usuário.
 
 ## Tecnologias Utilizadas
 
